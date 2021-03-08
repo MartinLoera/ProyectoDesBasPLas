@@ -67,7 +67,18 @@ npm install
 npm run serve
 Access localhost:8080
 ```
+### Built With
+VUEjs
+Python
+Django
+NodeJs
 
+Versioning
+1.0
 
+Authors
+Martin Loera
+Julio Rodelas
+Pedro Vidal
 
 ---
