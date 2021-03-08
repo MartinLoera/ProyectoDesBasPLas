@@ -1,0 +1,3 @@
+[submodule "frontend-influencers"]
+	path = frontend-influencers
+	url = https://github.com/pedrovid/influencers.git
